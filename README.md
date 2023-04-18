@@ -2,7 +2,7 @@
 
 This is an implementation of Question Answering Capabilities of OpenAI
 ## Available Scripts
-added
+
 In the project directory, you can run:
 
 ### `npm start`
