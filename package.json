@@ -1,7 +1,7 @@
 {
   "name": "qa-app",
   "version": "0.1.0",
-  "homepage": "https://nikikalwar.github.io/qa-app",
+  "homepage": "https://nikikalwar.github.io/qa-gpt",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
